@@ -5,6 +5,8 @@ J$Apps is focused on new type of mobile Apps Like JTUBE,etc which is developed
 
 in JDollar(JWEB) Technology at year 2018 by wilmix jemin j.
 
+J$APPS   is   focused  on  RemoteWebapplication-type2  with MobileApps.
+
 J$APPS  MobileApps Projects  are
 
 a) JTUBE
